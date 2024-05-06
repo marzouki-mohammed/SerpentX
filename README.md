@@ -1,5 +1,5 @@
 # SerpentX
-
+## la totalité de code dans la branche master
 SerpentX est un jeu classique de serpent où les joueurs contrôlent un serpent affamé qui se déplace sur un plateau en collectant de la nourriture pour grandir. L'objectif est de survivre le plus longtemps possible sans entrer en collision avec le serpent lui-même.
 
 ## Fonctionnalités
